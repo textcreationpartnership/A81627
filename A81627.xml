@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reasons why the Lrd. Marquiss of Dorchester printed his letter the 25th. of February, 1659. Dated the 13th. of the same moneth Together with my answer to a printed paper, called, A true and perfect copy of the Lord Roos his ansvver to the Marquiss of Dorchesters letter, written the 25th. of February, 1659.</title>
+            <author>Dorchester, Henry Pierrepont, Marquis of, 1606-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81627</idno>
+            <idno type="STC">Wing D1919</idno>
+            <idno type="STC">Thomason 669.f.24[27]</idno>
+            <idno type="STC">ESTC R211717</idno>
+            <idno type="EEBO-CITATION">99896329</idno>
+            <idno type="PROQUEST">99896329</idno>
+            <idno type="VID">154147</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154147)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2401:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reasons why the Lrd. Marquiss of Dorchester printed his letter the 25th. of February, 1659. Dated the 13th. of the same moneth Together with my answer to a printed paper, called, A true and perfect copy of the Lord Roos his ansvver to the Marquiss of Dorchesters letter, written the 25th. of February, 1659.</title>
+                  <author>Dorchester, Henry Pierrepont, Marquis of, 1606-1680.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed the 20th of March, 1659. the day after the printing the Lord Roos his answer, &amp;c. above mention'd, the date whereof by him purposely omitted,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint enclosed within square brackets.</note>
+                  <note>Date and place of publication from Wing.</note>
+                  <note>The imprint year is given according to Lady Day dating.</note>
+                  <note>In this edition, line 2 of title ends: letter.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rutland, John Manners, --  Duke of, 1638-1711.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:154147:1"/>
+            <head>THE REASONS Why the L<hi rend="sup">rd.</hi> Marquiſs of Dorcheſter printed his Letter The 25<hi rend="sup">th.</hi> of <hi>February,</hi> 1659. Dated the 13<hi rend="sup">th.</hi> of the ſame Moneth.</head>
+            <head>Together with my ANSWER to a printed Paper, called, <hi>A true and perfect Copy of the Lord</hi> ROOS <hi>his</hi> ANSVVER <hi>to the Marquiſs of</hi> DORCHESTERS LETTER, <hi>Written the</hi> 25<hi rend="sup">th.</hi> 
+               <hi>of</hi> February, 1659.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N the 12<hi rend="sup">th.</hi> of <hi>February</hi> laſt, about five in the afternoon, I received the Lord <hi>Roos</hi> his Paper, mentioned in my printed <hi>Letter,</hi> and immediately thereupon I writ that <hi>Anſwer,</hi> and ſent it away Poſt the next day: And though, both before and after, I was frequently informed, what reports he gave out in the Countrey, yet I held them onely worth my ſcorn, and at that time had not the leaſt intention of making any thing publick; my <hi>Letter</hi> being writ <hi>ad hominem,</hi> and not for the <hi>Preſſe.</hi> But when I ſaw for three days together (before I thought of printing it) thoſe ſcandalous <hi>Papers,</hi> that were ſcatter'd up and down, Poſted, and Cry'd by the Common Cryer all <hi>London</hi> over: And this done (beſides the injuries moſt uncivilly offered unto my Daughter, when She had not put him one penny in debt) to confirm by ſo notorious an Act his idle boaſting, that I was afraid to meet him; I was compell'd ſo to vindicate my ſelf, being deprived of all other means; for then I well knew he durſt not Fight. The <hi>Poſted Papers</hi> I need not recite, becauſe they are ſo common; For the Jewels and Plate therein mentioned, the firſt were all her own, except one Necklace of Pearl, and ſome trivial Diamonds: The Plate was no more than ſhe uſed in her Bed-chamber, and under the value of Threeſcore pounds: Before ſhe ſecured theſe, ſhe was often threatned they ſhould be all taken from her, and not ſo much left her as a Ring or Spoon: And ſince, I intreated Perſons of Honor to acquaint his Mother (which they did accordingly) that I would make good both what her Son, and my ſelf <hi>gave</hi> her, and at their owne Rates; But all would not ſerve, Spleen and Folly prevailed againſt Honour and Reaſon. And now upon the whole matter, whether, and how far I am juſtifiable in publiſhing that <hi>Letter,</hi> I willingly ſubmit to the judgement of any indifferent perſon. And thus I come to the Lord <hi>Roos</hi> his <hi>Anſwer</hi> to the Lord Marquiſs of <hi>Dorcheſter</hi>'s Letter, <hi>&amp;c.</hi>
+            </p>
+            <p>This <hi>Whelp</hi> hath for this Moneth been lick'd over and over, and is yet without form, a rude and indigeſted lump; If you had uſed the like quickneſs in your <hi>Reply,</hi> as I did in my <hi>Anſwer</hi> to your <hi>Letter,</hi> and therein required an accompt of me with my Sword in my hand, and in ſtead of Eleven dayes I allow'd you, you had given me but Two, nor ſo much neither, but in reſpect of the diſtance of our dwellings; If in that ſhort time you had not heard from me, with full ſatisfaction to your demand, you might then upon ſome grounds have divulged this and more; but now after a Moneths ſpace, when you durſt not do like a Man, to anſwer like a Childe, cleer from the purpoſe, and moſt apparent ſcope of my <hi>Letter,</hi> which was to provoke you to Fight, and not to Rail; This I ſay would have <hi>ſtigmatiz'd</hi> you with an indeleble mark, if you were capable of more Infamy, then is now upon you. <hi>FOR YO<g ref="char:V">Ʋ</g> ARE STILL A COWARD, AND DARE NOT FIGHT.</hi> This Expreſſion I muſt uſe often, as <hi>Cato</hi> did his <hi>Puto Carthaginem eſſe delendam:</hi> You know the Saying, <hi>Cloath an Ape in Tiſſue, and it but adds deformity to the Beaſt;</hi> and, the more a <hi>Coward</hi> ſeeks to conceal, the more he diſcovers his Fears: Of the truth of this you are a ſhameful Example. What a noyſe, and bluſtering do you make, to appear Some-body, as if with <hi>Homer</hi>'s <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> you had got the Winds into your empty Bottles? but all in vain; for 'tis with you like a Jade in the Myre, Your labouring to get out, but plunges you the deeper in. <hi>FOR YO<g ref="char:V">Ʋ</g> ARE STILL A COWARD, AND DARE NOT FIGHT.</hi> You ſay, <hi>I was amongſt my Gally-pots and Clyſter-pipes, when I gave my Choler ſo violent a Purge:</hi> If ſo, I was preſcribing a <hi>Clyſter</hi> for you to take before our Meeting, elſe I ſhould ſooner have had you in my Noſe, than in my Sight. You go on; <hi>I had better have been drunk, and ſet in the Stocks for it, when I ſent the Poſt with a Whole Pacquet of Chartels to you.</hi> I mention this ingenious Peece of Eloquence, for no other end then to ſhew what Wit there lies in the <hi>Froth</hi> of <hi>Ale.</hi> You proceed, That <hi>If I underſtand any thing in my own Trade, I could not but know, that the Hectique of my own Brain, is more deſperate then the Tertian Fits of yours, which are eaſily cured with a little Sleep.</hi> Is it poſſible for any man to be ſo ſtupid, as to publiſh himſelf in print a Common Drunkard? This is the plain <hi>Engliſh</hi> of your <hi>Tertian</hi> Fits, which if you had called <hi>Quotidian,</hi> you would eaſily have been beleiv'd; though indeed they have out-laſted any <hi>Quartan.</hi> You talk of <hi>Tutors</hi> and <hi>School-maſters;</hi> I have been long ſince out of their hands; but it is high time <hi>you</hi> were under their correction; and had I known you, aſwel before I ſent to you in a way of Honor, as I do now, I would for once have play'd the <hi>School-maſter</hi> my ſelf, and have brought, in ſtead of a <hi>Sword,</hi> a good <hi>Rod,</hi> the onely fit Weapon to encounter ſuch an Adverſary; <hi>FOR YO<g ref="char:V">Ʋ</g> ARE STILL A COWARD, AND DARE NOT FIGHT.</hi> You add; That <hi>now I begin to vapour, and tell you I have fought before; and that you have heard I have, with my Wife, and Poet; but if I came off with no more honor then when I was beaten by my Lord</hi> Grandiſon, <hi>I had better have kept that to my ſelf.</hi> What you mean by <hi>my Poet,</hi> I cannot imagine; but you may conceive 'tis not impoſſible for me to beat a Woman, ſince I declared ſuch a proneneſs to Cudgel you. The buſineſs between my Lord <hi>Grandiſon</hi> and my ſelf, is ſo fully known to the world, and his <hi>Second</hi> (an Eye-witneſs of what paſſed) yet alive, that there is no need for me to ſpeak a word therein; onely this, as a <hi>Hector</hi> (a name amongſt others you are pleaſed to beſtow upon me) I tell you, He that will Fight, though he have never ſo much the worſe, loſes no reputation: And I proteſt, I had rather meet with a man of Honour and Courage, though he did <hi>beat</hi> me (as you word it) then now to Fight and Beat you: But there's no great danger of that, <hi>FOR YO<g ref="char:V">Ʋ</g> ARE STILL A COWARD AND DARE NOT FIGHT.</hi> Next, you ſcrible about <hi>my cutting up Calves, and Dogs; and if by threatning to cram my Sword down your Throat, I do not mean my Pills, you are ſafe.</hi> Indeed, Experiments in <hi>Anatomy</hi> have much conduc'd to the bettering mans knowledge; and I make no doubt, had I the diſſecting of <hi>you</hi> in ſtead of a <hi>Calfe,</hi> I ſhould find the place, where Cowardiſe is ſeated. This would be an acceptable Diſcovery to our Colledge of Phyſicians. As concerning my <hi>Pills,</hi> thoſe you would moſt fear to take, muſt be prepared with <hi>Steel,</hi> for I know between <hi>Steel,</hi> and you, there is a great Antipathy. And whereas you ſay, <hi>There is no half quarter of a man but would venture to give me battle;</hi> Alas poor Wretch! you do not underſtand what Dirt you throw in your owne face; for your not daring to meet me, proves <hi>ex ore tuo,</hi> that you are leſs then <hi>half a quarter of a man;</hi> and ſurely here is both good Grammar, and Logick to boot. And now you tell me, <hi>I am moſt unſufferable in my unconſcionable ingroſſing of all Trades,</hi> That <hi>I am a Doctor of Civil Law, a Barriſter of the Common, a Bencher of</hi> Greys-Inn, <hi>a Profeſſor of Phyſick, a Fellow of the Colledge, a Mathemati<g ref="char:EOLhyphen"/>cian, Caldean, a School-man, and a piece of a Gramarian (as my laſt work ſhews, were it conſtrued) a Philoſopher, Poet, Tranſlator, Antiſo<g ref="char:EOLhyphen"/>cordiſt, Sollicitor, Broker, and <g ref="char:V">Ʋ</g>ſurer; a Marquiſs, Earl, Viſcount, Baron, and a Hector: And there is no dealing with me without a Brigade, if I have a Second for every capacity.</hi> What ridiculous ſtuff is here? <hi>Riſum teneatis Amici?</hi> yet I think a leſs number would ſcarce ſecure your Fears, and, even then, you durſt not appear in the Head of them; <hi>FOR STILL YO<g ref="char:V">Ʋ</g> ARE A COWARD, AND DARE NOT FIGHT.</hi> You ſay, <hi>for eating the Bread out of the Hectors mouths, you hope ſome of them will make me give them Compounding dinners, as well as I did to the reſt of my Fraternities.</hi> I think you ſcape fairly, if for abuſing them, you can be admitted to Compound for Dinners and Suppers too. You pithily write, That <hi>I meaſure another mans valour by comparing it with my owne.</hi> I underſtand in what ſenſe you would be taken, and laugh at it: But yet 'tis true, I ever did, and ſhall think, of all Gentlemen as I do of my ſelf, till I find them ſuch as you are: And now for the future, I ſhall meaſure all Cowards by your Scale. I will omit (for brevity) the reſt of your <hi>Billinſgate</hi> non-ſenſe (indeed your whole <hi>Letter</hi> is <hi>ejuſdem farinae)</hi> and give you this friendly admonition, That you be more careful and circumſpect hereafter, and not charge a fault upon another, when at the ſame inſtant you commit a greater in the ſame kind; I mean, your accuſing me of Railing, when you your ſelf tranſcend therein. I have but a word or two more, and I have done with you: You ſay, That <hi>I might have had the honour I deſired to have fallen by your Sword.</hi> I ſee the Proverb does not hold true in you, that <hi>Bad Memories have good Wits:</hi> I did not deſire abſolutely to fall by your Sword, but under the condition mentioned in my printed <hi>Letter:</hi> And as for the <hi>honor</hi> you vainly put upon falling by <hi>it;</hi> I think there is not any, but will beleive me without ſwearing; if I could have thought upon a more <hi>ignominious</hi> thing, I had named it. And now Sir, If your back be not ſufficiently loaden, go on, and I will lay more and more weight upon you, till you fall under the burden; <hi>AND STILL YO<g ref="char:V">Ʋ</g> ARE A COWARD, AND DARE NOT FIGHT.</hi>
+            </p>
+            <closer>
+               <signed>DORCHESTER.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>[Printed the 20<hi rend="sup">th.</hi> of <hi>March,</hi> 1659. the day after the Printing the Lord <hi>Roos</hi> his Anſwer, <hi>&amp;c.</hi> above mention'd, the Date whereof by him purpoſely omitted.]</p>
+         </div>
+      </back>
+   </text>
+</TEI>
